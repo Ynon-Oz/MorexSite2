@@ -1,0 +1,26 @@
+
+
+.contact-us {
+  padding: 30px;
+}
+.contact-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+#contact-form input,
+#contact-form textarea{
+width: 100%;
+padding: 10px;
+border: 1px #ddd solid;
+ }
+ #contact-form textarea{
+height: 200px;
+ }
+ #submit-btn{
+   width: 100%;
+ }

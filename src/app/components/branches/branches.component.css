@@ -1,0 +1,20 @@
+*{
+  box-sizing: border-box;
+}
+.box{
+  float: left;
+  width: 33.3%;
+  box-sizing: border-box;
+  padding: 20px;
+  text-align: center;
+  height: 100%;
+}
+
+.box a{
+  text-decoration: none;
+}
+
+.bg-primary{
+  background: #f7dc6f;
+  color: #333;
+}

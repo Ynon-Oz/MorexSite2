@@ -1,0 +1,177 @@
+
+.primary-leter {
+  color: #f7dc6f;
+}
+
+.btn {
+  text-decoration: none;
+  color: #fff;
+  display: inline-block;
+  font-size: 18px;
+  background: #333;
+  padding: 13px 20px;
+  border: none;
+  cursor: pointer;
+}
+.btn-light {
+  background: #f4f4f4;
+  color: #333;
+}
+.btn:hover {
+  color: #f7dc6f;
+  background: #444;
+}
+
+.lead {
+  font-size: 18px;
+  padding-bottom: 20px;
+  line-height: 1.7em;
+}
+.bg-dark {
+  background: #333;
+  color: #fff;
+}
+.bg-light {
+  background: #f4f4f4;
+  color: #333;
+}
+.bg-primary {
+  background: #f7dc6f;
+  color: #333;
+}
+
+.box {
+  float: left;
+  width: 33.3%;
+  box-sizing: border-box;
+  padding: 20px;
+  text-align: center;
+}
+
+.box a {
+  text-decoration: none;
+}
+/* info */
+/* **** */
+
+#about-info {
+  padding: 30px;
+}
+#about-info .info-right {
+  float: right;
+  width: 50%;
+  min-height: 100%;
+}
+
+#about-info .info-right img {
+  width: 70%;
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+}
+#about-info .info-left {
+  float: left;
+  width: 50%;
+  min-height: 100%;
+}
+#about-info .info-left h1 {
+  font-size: 40px;
+}
+
+
+/* history */
+/* ******* */
+
+#about-history {
+  /* padding: 30px; */
+  /* overflow: auto; */
+  display: block;
+
+}
+
+#history-container{
+  /* overflow: auto; */
+  }
+  #about-history {
+    padding: 30px;
+  }
+  #about-history .history-left {
+    float: left;
+    width: 50%;
+    min-height: 100%;
+  }
+
+  #about-history .history-left img {
+    /* width: 50%; */
+    min-height: 100%;
+    display: block;
+    margin: auto;
+    border-radius: 3px;
+    border: #fff solid 2px;
+  }
+/* .history-left {
+  float: left;
+  width: 40%;
+  min-height: 100%;
+  background: url(../../../assets/sasha.JPG) no-repeat center center/cover;
+  margin-top: auto;
+}
+.history-left img {
+  width: 100%;
+  min-height: 100%;
+  display: block; */
+  /* margin: 70% 50%; */
+
+
+.history-right {
+  float: right;
+  width: 50%;
+  min-height: 100%;
+  margin: 30px;
+}
+/* Carusela */
+/* ******** */
+#myCarousel{
+height: 600px;
+
+}
+#myCarousel img{
+height: 600px;
+width: 100%;
+}
+
+
+
+/* what is NDT */
+/* *********** */
+
+#about-ndt {
+  /* padding: 30px; */
+}
+#about-ndt .info-right {
+  /* float: right;
+width: 50%;
+min-height: 100%; */
+}
+
+#about-ndt .info-right img {
+  /* width: 70%;
+display: block;
+margin: auto;
+border-radius: 50%; */
+}
+#about-ndt .info-left {
+  /* float: left;
+  width: 50%;
+  min-height: 100%; */
+}
+#about-ndt .info-left h1 {
+  /* font-size: 40px; */
+}
+
+#ndt-img1{
+  float: right;
+  width: 50%;
+  background: url(../../../assets/MosheAndNisimOnGasPipeLine.jpg) no-repeat center center/cover ;
+  min-height: 100%;
+}

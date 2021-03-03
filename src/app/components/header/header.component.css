@@ -1,0 +1,57 @@
+.container {
+  overflow: auto;
+  max-width: 1100px;
+}
+
+.myown {
+  border: 1px #333 solid;
+  background: #333;
+  padding: 0;
+  margin: 0;
+}
+
+#mynavbar h1 {
+  float: left;
+  margin: 15px 20px;
+  color: #f7dc6f;
+}
+#mynavbar ul {
+  list-style: none;
+  float: right;
+}
+
+#mynavbar ul li {
+  float: left;
+}
+
+#mynavbar a {
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+  padding: 15px;
+  margin: 3px 0;
+}
+
+.mytop-menu li a:hover {
+  color: #f7dc6f;
+  background: #444;
+}
+
+@media screen and (max-width: 768px) {
+  #mynavbar h1 {
+    float: none;
+    margin: 15px 20px;
+    color: #f7dc6f;
+    text-align: center;
+  }
+  #mynavbar ul {
+    float: none;
+    line-height: 5rem;
+  }
+
+  #mynavbar ul li {
+    float: none;
+    text-align: center;
+
+  }
+}

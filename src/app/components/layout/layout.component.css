@@ -1,0 +1,6 @@
+section {
+
+  box-sizing: border-box;
+  display:grid;
+  grid-template-rows: auto auto 20px; /* 3 rows */
+}

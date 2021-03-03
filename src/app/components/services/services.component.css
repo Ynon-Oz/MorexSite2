@@ -1,0 +1,19 @@
+
+*{
+  box-sizing: border-box;
+}
+.services-container{
+  width: 100%;
+}
+
+#service1-img{
+  background: url(../../../assets/MosheAndNisimOnGasPipeLine.jpg) no-repeat  center /cover;
+width: 100%;
+min-height: 600px;
+}
+#service2-img{
+  background: url(../../../assets/IR-inpipe.jpg) no-repeat  center /cover;
+width: 100%;
+min-height: 600px;
+}
+
