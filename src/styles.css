@@ -6,7 +6,11 @@ body {
   padding: 0;
   box-sizing: border-box;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: ;
 }
+/* SF Rounded */
+
+
 .primary-leter {
   color: #f7dc6f;
 }

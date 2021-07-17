@@ -5,14 +5,17 @@
 .services-container{
   width: 100%;
 }
+.service{
+height: 100vh;
 
-#service1-img{
+}
+#rt{
   background: url(../../../assets/MosheAndNisimOnGasPipeLine.jpg) no-repeat  center /cover;
 width: 100%;
-min-height: 600px;
+height: 100vh;
 }
 #service2-img{
-  background: url(../../../assets/IR-inpipe.jpg) no-repeat  center /cover;
+  background: url(../../../assets/IR-inpipe.jpg) no-repeat  center center /cover;
 width: 100%;
 min-height: 600px;
 }
